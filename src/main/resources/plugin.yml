@@ -1,0 +1,8 @@
+name: EnchantBlock
+version: ${version}
+author: secretdataz
+main: th.in.ahri.EnchantBlock.EnchantBlock
+permissions:
+    enchantblock.bypass:
+        description: 'Bypass enchantment restriction'
+        default: false
